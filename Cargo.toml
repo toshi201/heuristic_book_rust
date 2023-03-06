@@ -11,3 +11,7 @@ rand = "0.8.5"
 [[bin]]
 name = "maze_state00"
 path = "OnePlayerGame/00_mazeState.rs"
+
+[[bin]]
+name = "greedy01"
+path = "OnePlayerGame/01_greedy.rs"
